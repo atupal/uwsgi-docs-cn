@@ -1,6 +1,8 @@
 The uWSGI project
 =================
 
+[![build-status](https://api.travis-ci.org/atupal/uwsgi-docs-cn.svg)](https://api.travis-ci.org/atupal/uwsgi-docs-cn)
+
 The uWSGI project aims at developing a full stack for building hosting services.
 
 Application servers (for various programming languages and protocols), proxies, process managers and monitors are all implemented
